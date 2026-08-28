@@ -8,9 +8,6 @@
   <a href="https://github.com/Yash-salvi">
     <img src="https://img.shields.io/github/followers/Yash-salvi?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/Yash-salvi?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=flat&logo=github" alt="Repositories"/>
-  </a>
   <a href="https://komarev.com/ghpvc/?username=Yash-salvi">
     <img src="https://komarev.com/ghpvc/?username=Yash-salvi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
@@ -56,7 +53,6 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
   <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgresql" alt="Backend Technologies"/>
 </p>
 
-**Java • Spring Boot • Spring Security • REST APIs • JPA • Hibernate • SQL**
 
 ### 🎨 Frontend Development
 
@@ -76,13 +72,9 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-     alt="Yash Salvi GitHub Statistics"/>
+[![Yash Salvi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)](https://github.com/Yash-salvi)
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=8&hide_border=true"
-     alt="Yash Salvi Top Languages"/>
+[![Yash Salvi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=8&hide_border=true)](https://github.com/Yash-salvi)
 
 </div>
 
@@ -92,8 +84,7 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Yash-salvi&hide_border=true"
-     alt="Yash Salvi GitHub Contribution Streak"/>
+[![Yash Salvi GitHub Streak](https://streak-stats.demolab.com?user=Yash-salvi)](https://github.com/Yash-salvi)
 
 </div>
 
@@ -103,8 +94,7 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-salvi&theme=github-compact&hide_border=true&area=true"
-     alt="Yash Salvi Contribution Activity Graph"/>
+[![Yash Salvi Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yash-salvi&theme=github-compact&hide_border=true&area=true)](https://github.com/Yash-salvi)
 
 </div>
 
@@ -114,12 +104,9 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yash-salvi&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"
-     alt="Yash Salvi GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash-salvi&theme=flat&no-frame=true&no-bg=true&column=7)](https://github.com/Yash-salvi)
 
 </div>
-
----
 
 # 🚀 Featured Projects
 
@@ -224,20 +211,6 @@ A Java-based hotel booking application developed to strengthen **Core Java, JDBC
 | Exception Handling | JPA / Hibernate | Database Design | UI Development |
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Start my career as a **Java Full Stack Developer**
-- ☕ Strengthen my **Core & Advanced Java** skills
-- 🌱 Build scalable applications using **Spring Boot**
-- 🔐 Improve **Spring Security & JWT** knowledge
-- ⚛️ Improve my **React.js** skills
-- 🗄️ Become stronger in **SQL & Database Design**
-- 🧩 Learn and implement **Microservices**
-- 🐳 Improve my **Docker & Deployment** skills
-- 💼 Contribute to real-world software projects
 
 ---
 
