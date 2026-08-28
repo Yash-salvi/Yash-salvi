@@ -6,11 +6,9 @@
 
 <p>
   <a href="https://github.com/Yash-salvi">
-    <img src="https://img.shields.io/github/followers/Yash-salvi?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Yash-salvi?label=Followers&style=flat&logo=github" alt="Followers"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Yash-salvi">
-    <img src="https://komarev.com/ghpvc/?username=Yash-salvi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yash-salvi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p>
@@ -28,174 +26,195 @@
 
 ## 👨‍💻 About Me
 
-I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who enjoys building practical, user-focused web applications.
-
-- 🔭 Currently looking for an opportunity as a **Java / Software Developer**
-- 🌱 Strengthening my skills in **Java, Spring Boot, Spring Security and Backend Development**
-- 💻 Interested in **REST APIs, Full Stack Development, Database Design and Backend Engineering**
-- 🧩 I enjoy turning ideas into working applications
-- 🎯 Focused on improving my coding, problem-solving and software development skills
-- ⚡ I believe in **learning by building**
+Java Full Stack Developer passionate about building **practical and user-friendly web applications**.
+Currently focused on **Java, Spring Boot, React.js, REST APIs, Spring Security and SQL**, while looking for a **Software/Java Developer opportunity**.
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming Languages"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgresql" alt="Backend Technologies"/>
-</p>
-
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,tailwind" alt="Frontend Technologies"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" alt="Tools and Technologies"/>
-</p>
----
-
-# 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Yash-salvi">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Yash Salvi GitHub Stats"
-  />
-</a>
+<table>
+<tr>
+<td align="center" width="180">
 
-<a href="https://github.com/Yash-salvi">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Yash Salvi Top Languages"
-  />
-</a>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&perline=5" width="150"/>
+
+</td>
+
+<td align="center" width="180">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate&perline=2" width="90"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="22"/>
+
+</td>
+
+<td align="center" width="180">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&perline=3" width="120"/>
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2" width="90"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22"/>
+
+</td>
+
+<td align="center" width="180">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&perline=3" width="120"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Yash-salvi">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Yash-salvi&theme=tokyonight&hide_border=true"
-    alt="Yash Salvi GitHub Streak"
-    width="70%"
-  />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Yash-salvi">
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## 🔥 Contribution Streak & Activity
 
 <div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔥 Contribution Streak
 
 <img
-  src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake.svg"
-  alt="Yash Salvi GitHub Contribution Activity"
-  width="100%"
+src="https://github-readme-streak-stats-eight.vercel.app/?user=Yash-salvi&theme=tokyonight&hide_border=true"
+width="100%"
+alt="Yash Salvi GitHub Contribution Streak"
 />
+
+</td>
+
+<td align="center" width="50%">
+
+### 📈 Contribution Activity
+
+<img
+src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Yash Salvi GitHub Contribution Activity"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🏠 Plotify Estates
+### 1️⃣ 🏠 Plotify Estates
+
 **Real Estate Full Stack Platform**
 
-Full-stack real estate platform with **Buyer, Agent and Admin** roles, property management, dynamic filtering, JWT authentication and Razorpay payments.
+Full-stack real estate platform with **Buyer, Agent and Admin** roles, property management, dynamic filtering, JWT authentication and Razorpay payment integration.
 
-`Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL` `Razorpay`
+**Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL` `Razorpay`
 
 🔗 **[View Repository →](https://github.com/Yash-salvi/Real_Estate_FullStack)**
 
 ---
 
-### 🛒 Shopify E-Commerce
+### 2️⃣ 🛒 Shopify E-Commerce
+
 **Full Stack E-Commerce Application**
 
 E-commerce platform with **Admin, Seller and Buyer** roles, product management, search/filtering, authentication and Razorpay payment integration.
 
-`Java` `Spring Boot` `Spring Security` `JPA` `React.js` `MySQL` `Razorpay`
+**Tech:** `Java` `Spring Boot` `Spring Security` `JPA` `React.js` `MySQL` `Razorpay`
 
 🔗 **[View Repository →](https://github.com/Yash-salvi/E_CommerceProject_FullStack)**
 
 ---
 
-### 🏨 Hotel Booking System
+### 3️⃣ 🏨 Hotel Booking System
+
 **Java & JDBC Application**
 
-Hotel booking application focused on **room management, customer management, booking functionality and MySQL database operations**.
+Hotel booking application with **room management, customer management, booking functionality and MySQL database operations**.
 
-`Java` `JDBC` `MySQL` `SQL`
+**Tech:** `Java` `JDBC` `MySQL` `SQL`
 
 🔗 **[View Repository →](https://github.com/Yash-salvi/hotel-booking-system)**
 
 ---
 
-# 💡 Developer Philosophy
+## 💡 Developer Philosophy
 
 <div align="center">
 
-### **Learn → Build → Break → Debug → Improve → Repeat**
+### **Learn → Build → Debug → Improve → Repeat 🚀**
 
 </div>
 
-I believe the best way to learn software development is by building real applications, understanding mistakes, solving problems and continuously improving.
-
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Yash-salvi">
-<img src="https://img.shields.io/badge/GitHub-Yash--salvi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yash-salvi-0b2aa7256/">
-<img src="https://img.shields.io/badge/LinkedIn-Yash%20Salvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/yashsalviii">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/yashsalviii">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-⭐ **Feel free to explore my repositories and connect with me.**
+⭐ **Thanks for visiting! Feel free to explore my repositories and connect with me.**
 
 </div>
