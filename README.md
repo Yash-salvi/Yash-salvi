@@ -113,7 +113,7 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <img
   src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake-dark.svg"
-  alt="Yash Salvi Contribution Graph"
+  alt="Yash Salvi GitHub Contribution Activity"
   width="100%"
 />
 
