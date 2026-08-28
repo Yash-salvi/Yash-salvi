@@ -149,7 +149,7 @@ A full-stack e-commerce application with separate functionality for **Admin, Sel
 * 💳 Online payment using Razorpay
 * 🔄 REST API integration
 
-🔗 **Repository:** [View Project](https://github.com/Yash-salvi)
+🔗 **Repository:** [View Project](https://github.com/Yash-salvi/E_CommerceProject_FullStack)
 
 ---
 
@@ -167,6 +167,7 @@ A Java-based hotel booking application developed to understand backend programmi
 * Database connectivity
 * CRUD operations
 
+🔗 **Repository:** [View Project](https://github.com/Yash-salvi/hotel-booking-system)
 ---
 
 # 📚 Currently Learning
