@@ -111,135 +111,48 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-<a href="https://github.com/Yash-salvi">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-salvi&theme=tokyo-night&hide_border=true&area=true&height=180"
-    alt="Yash Salvi Contribution Activity"
-    width="100%"
-  />
-</a>
+<img
+  src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake-dark.svg"
+  alt="Yash Salvi Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/Yash-salvi">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Yash-salvi&theme=tokyonight&no-frame=true&no-bg=true&column=7"
-    alt="Yash Salvi GitHub Trophies"
-    width="100%"
-  />
-</a>
-
-</div>
-
 # 🚀 Featured Projects
 
-<div align="center">
-
 ### 🏠 Plotify Estates
-
 **Real Estate Full Stack Platform**
 
-</div>
+Full-stack real estate platform with **Buyer, Agent and Admin** roles, property management, dynamic filtering, JWT authentication and Razorpay payments.
 
-A full-stack real estate platform designed for **Buyers, Agents and Admins**, with property listing, searching, filtering, authentication and payment functionality.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security` `JWT`  
-`JPA` `Hibernate` `React.js` `Tailwind CSS`  
-`MySQL` `Razorpay`
-
-**Key Features**
-
-- 🔐 JWT-based authentication
-- 👥 Role-based authorization
-- 🏡 Property listing and management
-- 🔎 Dynamic property filtering
-- 👤 Buyer, Agent and Admin roles
-- 💳 Razorpay payment integration
-- ⚙️ RESTful APIs
-- 🗄️ JPA / Hibernate database integration
+`Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL` `Razorpay`
 
 🔗 **[View Repository →](https://github.com/Yash-salvi/Real_Estate_FullStack)**
 
 ---
 
-<div align="center">
-
 ### 🛒 Shopify E-Commerce
-
 **Full Stack E-Commerce Application**
 
-</div>
+E-commerce platform with **Admin, Seller and Buyer** roles, product management, search/filtering, authentication and Razorpay payment integration.
 
-A full-stack e-commerce application with dedicated functionality for **Admin, Seller and Buyer**.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security`  
-`JPA` `React.js` `MySQL` `Razorpay`
-
-**Key Features**
-
-- 🔐 Authentication and authorization
-- 👨‍💼 Admin, Seller and Buyer roles
-- 🔍 Product search and filtering
-- ❤️ Favorite products
-- ➕ Product management
-- ✏️ Product update functionality
-- 🛍️ Product purchasing
-- 💳 Razorpay payment integration
-- 🔄 REST API integration
+`Java` `Spring Boot` `Spring Security` `JPA` `React.js` `MySQL` `Razorpay`
 
 🔗 **[View Repository →](https://github.com/Yash-salvi/E_CommerceProject_FullStack)**
 
 ---
 
-<div align="center">
-
 ### 🏨 Hotel Booking System
+**Java & JDBC Application**
 
-**Java & JDBC Based Application**
-
-</div>
-
-A Java-based hotel booking application developed to strengthen **Core Java, JDBC and SQL database connectivity**.
-
-**Tech Stack**
+Hotel booking application focused on **room management, customer management, booking functionality and MySQL database operations**.
 
 `Java` `JDBC` `MySQL` `SQL`
 
-**Key Features**
-
-- 🏨 Room management
-- 👤 Customer management
-- 📅 Booking functionality
-- 🔄 CRUD operations
-- 🗄️ MySQL database integration
-- 🔌 JDBC connectivity
-
 🔗 **[View Repository →](https://github.com/Yash-salvi/hotel-booking-system)**
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| ☕ Java | 🌱 Spring Boot | 🗄️ Database | ⚛️ Frontend |
-|:---:|:---:|:---:|:---:|
-| Advanced Java | REST APIs | SQL | React.js |
-| Collections | Spring Security | MySQL | JavaScript |
-| Multithreading | JWT | PostgreSQL | Tailwind CSS |
-| Exception Handling | JPA / Hibernate | Database Design | UI Development |
-
-</div>
 
 ---
 
