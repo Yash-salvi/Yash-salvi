@@ -107,12 +107,12 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/Yash-salvi/Yash-salvi/output/github-contribution-grid-snake.svg"
   alt="Yash Salvi GitHub Contribution Activity"
   width="100%"
 />
