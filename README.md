@@ -65,16 +65,27 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" alt="Tools and Technologies"/>
 </p>
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-[![Yash Salvi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)](https://github.com/Yash-salvi)
+<a href="https://github.com/Yash-salvi">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Yash-salvi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Yash Salvi GitHub Stats"
+  />
+</a>
 
-[![Yash Salvi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=8&hide_border=true)](https://github.com/Yash-salvi)
+<a href="https://github.com/Yash-salvi">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yash-salvi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Yash Salvi Top Languages"
+  />
+</a>
 
 </div>
 
@@ -84,7 +95,13 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-[![Yash Salvi GitHub Streak](https://streak-stats.demolab.com?user=Yash-salvi)](https://github.com/Yash-salvi)
+<a href="https://github.com/Yash-salvi">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Yash-salvi&theme=tokyonight&hide_border=true"
+    alt="Yash Salvi GitHub Streak"
+    width="70%"
+  />
+</a>
 
 </div>
 
@@ -94,7 +111,13 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-[![Yash Salvi Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yash-salvi&theme=github-compact&hide_border=true&area=true)](https://github.com/Yash-salvi)
+<a href="https://github.com/Yash-salvi">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-salvi&theme=tokyo-night&hide_border=true&area=true&height=180"
+    alt="Yash Salvi Contribution Activity"
+    width="100%"
+  />
+</a>
 
 </div>
 
@@ -104,7 +127,13 @@ I'm **Yash Salvi**, a passionate **Java Full Stack Developer** and fresher who e
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yash-salvi&theme=flat&no-frame=true&no-bg=true&column=7)](https://github.com/Yash-salvi)
+<a href="https://github.com/Yash-salvi">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Yash-salvi&theme=tokyonight&no-frame=true&no-bg=true&column=7"
+    alt="Yash Salvi GitHub Trophies"
+    width="100%"
+  />
+</a>
 
 </div>
 
