@@ -155,7 +155,7 @@ Full-stack real estate platform with **Buyer, Agent and Admin** roles, property 
 
 **Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL` `Razorpay`
 
-🔗 **[View Repository →](https://github.com/Yash-salvi/Real_Estate_FullStack)**
+🔗 **[View Live →](https://plotify-estate-platform.vercel.app/)**
 
 ---
 
